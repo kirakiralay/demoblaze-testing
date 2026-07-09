@@ -17,7 +17,7 @@
 
 ## Фактический результат
 В DevTools → Console появляется предупреждение:
-'VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists.' You may want to avoid re-registering plugins!
+`VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists.` You may want to avoid re-registering plugins!
 Плагин регистрируется дважды — скрипт videojs-contrib-hls.min.js подключён на странице повторно
 
 ## Среда
