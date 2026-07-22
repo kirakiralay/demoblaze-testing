@@ -11,8 +11,7 @@ demoblaze-testing/
 ├── bugs/
 │   ├── TES-3.md
 │   └── TES-4.md
-└── checklists/
-    └── auth-checklist.md
+
 ```
 
 ## Что тестировалось
