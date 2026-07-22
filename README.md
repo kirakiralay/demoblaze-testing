@@ -8,9 +8,9 @@
 ```
 demoblaze-testing/
 ├── README.md
-├── bugs/
-│   ├── TES-3.md
-│   └── TES-4.md
+├── bugs
+   ├── TES-3.md
+   └── TES-4.md
 
 ```
 
